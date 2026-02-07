@@ -1,0 +1,51 @@
+.nave{
+    display: flex;
+  gap: 40px;
+}
+.nave1{
+    margin: 40px;
+}
+.nave2{
+    margin: 40px;
+}
+.nave3{
+    margin: 40px;
+}
+.third{
+    margin-right:auto
+}
+.guru{
+    display: flex;
+    gap: 40px;
+}
+.guru1{
+    margin: 40px;
+}
+.guru2{
+    margin: 40px;
+}
+.guru3{
+    margin: 40px;
+}
+.manu{
+    display: flex;
+    gap: 40px;
+}
+.manu1{
+    margin: 40px;
+    
+}
+.manu2{
+    margin: 40px;
+}
+.manu3{
+    margin: 40px;
+}
+.me{
+    border: 2px solid black;
+    border-radius: 10px;
+    box-shadow: 2px 2px 2px ;
+}
+.h1{
+    text-align: center;
+}
